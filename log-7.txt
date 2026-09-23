@@ -1,0 +1,1 @@
+Commit 7 for multimodal-rag-kit
